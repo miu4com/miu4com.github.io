@@ -436,28 +436,28 @@ span.glyphicon.glyphicon-triangle-bottom {
 i.facebook {
   width: 52px;
   height: 52px;
-  background: url(../images/img-sprite.png)no-repeat 0px 0px;
+  background: url(img-sprite.png)no-repeat 0px 0px;
   margin: 0 8px;
   background-size: 410px;
 }
 i.twitter {
   width: 52px;
   height: 52px;
-  background: url(../images/img-sprite.png)no-repeat -52px 0px;
+  background: url(img-sprite.png)no-repeat -52px 0px;
   margin: 0 8px;
   background-size: 408px;
 }
 i.google {
   width: 52px;
   height: 52px;
-  background: url(../images/img-sprite.png)no-repeat -105px 0px;
+  background: url(img-sprite.png)no-repeat -105px 0px;
   margin: 0 8px;
   background-size: 410px;
 }
 i.beh {
   width: 52px;
   height: 52px;
-  background: url(../images/img-sprite.png)no-repeat -158px 0px;
+  background: url(img-sprite.png)no-repeat -158px 0px;
   margin: 0 8px;
   background-size: 410px;
 }
@@ -533,28 +533,28 @@ i.beh {
 i.facebook {
   width: 44px;
   height: 44px;
-  background: url(../images/img-sprite.png)no-repeat 0px 0px;
+  background: url(img-sprite.png)no-repeat 0px 0px;
   background-size: 346px;
     margin: 0 10px;
 }
 i.twitter {
   width: 44px;
   height: 44px;
-  background: url(../images/img-sprite.png)no-repeat -44px 0px;
+  background: url(img-sprite.png)no-repeat -44px 0px;
   background-size: 345px;
     margin: 0 10px;
 }
 i.google {
   width: 44px;
   height: 44px;
-  background: url(../images/img-sprite.png)no-repeat -88px 0px;
+  background: url(img-sprite.png)no-repeat -88px 0px;
   background-size: 345px;
     margin: 0 10px;
 }
 i.beh {
  width: 45px;
   height: 44px;
-  background: url(../images/img-sprite.png)no-repeat -132px 0px;
+  background: url(img-sprite.png)no-repeat -132px 0px;
   background-size: 345px;
     margin: 0 10px;
 }
