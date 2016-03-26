@@ -1,0 +1,160 @@
+﻿<? include("301.in.php");?>
+<html>
+<head>
+<title>米优市miu4com謬思一下,終會實現</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/font-awesome.min.css" rel="stylesheet" >
+<link rel="shortcut icon" type="image/ico" href="favicon.ico"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="miu4,謬思,谬思" />
+<meta name="description" content="因為荒謬所以瘋狂，因為荒謬所以相信——謬思" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script src="js/jquery-1.11.1.min.js"></script>
+<!---- start-smoth-scrolling---->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="http://www.haokaa.com/domains.js"></script>
+<script type="text/javascript" src="http://www.haokaa.com/qq.js"></script>
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".scroll").click(function(event){		
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
+			});
+		});
+	</script>
+<!---End-smoth-scrolling---->
+ 
+</head>
+<body>
+
+<!--start-header-section-->
+			<div class="header-section">
+		  <div class="continer">
+					<img src="images/p1.png" >
+<h1><span>MUSE</span></h1>
+							<p>www.miu4.com</p>			<a href="#miu4" class="scroll top"><span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span></a>
+
+				</div>
+			</div>
+		<!--end header-section-->
+			<!--start-study-section-->
+			<div class="study-section">
+				<div class="container">
+					<div class="study-grids">
+                    					        <div class="col-md-6 study-grid"> <h3>因為荒謬所以瘋狂...<span><a target="_blank" href="http://www.west.cn/show/?abcll">西米鋪</a></span></h3>
+<div class="study1">
+<div class="list-group">
+<span id="cndomains"></span>
+</div>
+ </div>
+</div>
+
+			          <div class="col-md-6 study-grid">
+				    <h3>因為荒謬所以相信...<span><a target="_blank" href="http://747832.shop.ename.com/">易名鋪</a></span></h3>
+<div class="study1">
+<div class="list-group">
+<span id="comdomains"></span>
+</div>
+ </div>
+ </div>
+ </div>
+					<div class="clearfix"></div>
+</div>
+</div>
+			</div>
+<!--end study-section-->
+			<!--start-services-section-->
+			<div class="service-section" id="service">
+				<div class="container">
+
+		<div class="service-grids">
+<div class="clearfix"> </div>
+					  </div>
+					</div>
+				</div>
+					<!--end services-section-->
+					<!--start-social-section-->
+                       		<!--end-social-section-->
+							<!--start-contact-section-->
+                             <div class="study1">
+<div class="list-group">
+  <a class="list-group-item" >"Crazy-because of the absurd,Believe-because of the absurd."-MUSE</a>
+  <a class="list-group-item" >因為荒謬所以瘋狂，因為荒謬所以相信——謬思</a>
+  <a class="list-group-item" >"Stripling should be a bit absurd ideas,and prove that it is not absurd."-Lin,Yueli</a>
+  <a class="list-group-item" >年輕人要有點荒謬的想法，並證明它不荒謬——林約瀝</a>
+  <a class="list-group-item" >"All great deeds and all great thoughts have a ridiculous beginning." -Albert Camus</a>
+  <a class="list-group-item" >所以偉大的事跡和偉大的思想都有荒謬的開頭——阿爾貝·加繆</a>
+  <a class="list-group-item" >"Anyone's dreams,even if again how ridiculous,is worthy of respect."-MUSE</a>
+  <a class="list-group-item" >任何人的夢想，即使再怎麼荒謬，都是值得尊重的。——謬思</a>
+  <a class="list-group-item" >"If at first the idea is not absurd, then there will be no hope for it."- Albert Einstein </a>
+  <a class="list-group-item" >如果一個想法一開始不荒謬，那麼它就毫無希望——阿爾伯特·愛恩斯坦</a>
+</div>
+<div style="text-align:center; margin-left:auto; margin-right:auto;" class="bdlikebutton"></div><br />
+					          <p>
+                              <i class="fa fa-qq"></i> <a href="http://wpa.qq.com/msgrd?v=3&uin=12632016&site=qq&menu=yes" target="_new">12632016</a><label></label>
+				              </p>
+                                <p>
+                              <i class="fa fa-mobile-phone fa-lg"></i> <a href="tel://+8613186785868">+86 131-8678-5868</a>
+<label></label>
+				              </p>
+
+					          <p>
+                              <i class="fa fa-envelope"></i><a href="mailto:miu4com@gmail.com"> miu4com@gmail.com</a><label></label>
+				              </p>
+							   <p>
+                              <i class="fa fa-weibo"></i><a target="_blank" href="http://weibo.com/miu4"> Http://weibo.com/miu4</a><label></label>
+				              </p>
+	<!--end-contact-section-->
+				<!--start-map-section-->
+							<!--end-map-section-->
+			<!--start-footer-section-->
+			<div class="footer-section">
+						<div class="container">
+							<div class="footer-top">
+						<p>&copy; 2016 <span>miu4com</span> All rights reserved </p>
+									</div>
+							<script type="text/javascript">
+						$(document).ready(function() {
+							/*
+							var defaults = {
+					  			containerID: 'toTop', // fading element id
+								containerHoverID: 'toTopHover', // fading element hover id
+								scrollSpeed: 1200,
+								easingType: 'linear' 
+					 		};
+							*/
+							
+							$().UItoTop({ easingType: 'easeOutQuart' });
+							
+						});
+					</script>
+                    <script type="text/javascript">
+					//Write
+for(i=0;i<=cndomains.length-1;i++){
+	if(i<(cndomains.length)/2){
+	document.getElementById("cndomains").innerHTML+="<a class='list-group-item' >"+cndomains[i]+" </a>";}
+	if(i>=(cndomains.length)/2){
+document.getElementById("comdomains").innerHTML+="<a class='list-group-item' >"+cndomains[i]+" </a>";}
+	}
+</script>
+<script id="bdlike_shell">//share</script>
+<script>
+var bdShare_config = {
+	"type":"large",
+	"color":"blue",
+	"likeText":"MUSE",
+	"likedText":"謬思miu4",
+	"share":"yes"
+};
+</script>
+<script src="http://www.haokaa.com/images/share.js"></script>
+					<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+				</div>
+			</div>
+	<!--end-footer-section-->
+<EMBED id="miu4" src=muse.mp3 autostart="true" height=0 width=0></EMBED>
+</body>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257411738'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1257411738' type='text/javascript'%3E%3C/script%3E"));</script>
+</html> 
