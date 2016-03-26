@@ -1,7 +1,7 @@
 ﻿<? include("301.in.php");?>
 <html>
 <head>
-<title>MUSE謬思Miu4com【因為荒謬所以瘋狂，因為荒謬所以相信——謬思】</title>
+<title>米优市miu4com謬思一下,終會實現</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/font-awesome.min.css" rel="stylesheet" >
@@ -14,7 +14,8 @@
 <!---- start-smoth-scrolling---->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
-<script type="text/javascript" src="domains.js"></script>
+<script type="text/javascript" src="http://www.haokaa.com/domains.js"></script>
+<script type="text/javascript" src="http://www.haokaa.com/qq.js"></script>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
 			$(".scroll").click(function(event){		
@@ -57,9 +58,8 @@
 <span id="comdomains"></span>
 </div>
  </div>
- 
-		          </div>
-			  </div>
+ </div>
+ </div>
 					<div class="clearfix"></div>
 </div>
 </div>
@@ -82,8 +82,8 @@
 <div class="list-group">
   <a class="list-group-item" >"Crazy-because of the absurd,Believe-because of the absurd."-MUSE</a>
   <a class="list-group-item" >因為荒謬所以瘋狂，因為荒謬所以相信——謬思</a>
-  <a class="list-group-item" >"Stripling should be a bit absurd ideas,and prove that it is not absurd."-MUSE</a>
-  <a class="list-group-item" >年輕人要有點荒謬的想法，並證明它不荒謬——謬思</a>
+  <a class="list-group-item" >"Stripling should be a bit absurd ideas,and prove that it is not absurd."-Lin,Yueli</a>
+  <a class="list-group-item" >年輕人要有點荒謬的想法，並證明它不荒謬——林約瀝</a>
   <a class="list-group-item" >"All great deeds and all great thoughts have a ridiculous beginning." -Albert Camus</a>
   <a class="list-group-item" >所以偉大的事跡和偉大的思想都有荒謬的開頭——阿爾貝·加繆</a>
   <a class="list-group-item" >"Anyone's dreams,even if again how ridiculous,is worthy of respect."-MUSE</a>
@@ -133,9 +133,9 @@
                     <script type="text/javascript">
 					//Write
 for(i=0;i<=cndomains.length-1;i++){
-	if(i<=(cndomains.length)/2){
-	document.getElementById("cndomains").innerHTML+="<a class='list-group-item' >"+cndomains[i]+" <a href='http://whois.aliyun.com/whois/domain/"+cndomains[i]+"'><i class='fa fa-birthday-cake'></i></a></a>";}
-	if(i>(cndomains.length)/2){
+	if(i<(cndomains.length)/2){
+	document.getElementById("cndomains").innerHTML+="<a class='list-group-item' >"+cndomains[i]+" </a>";}
+	if(i>=(cndomains.length)/2){
 document.getElementById("comdomains").innerHTML+="<a class='list-group-item' >"+cndomains[i]+" </a>";}
 	}
 </script>
@@ -145,7 +145,7 @@ var bdShare_config = {
 	"type":"large",
 	"color":"blue",
 	"likeText":"MUSE",
-	"likedText":"謬思Miu4",
+	"likedText":"謬思miu4",
 	"share":"yes"
 };
 </script>
